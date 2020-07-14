@@ -1,7 +1,7 @@
 # Get your Series Bot | GSB
-**simple bot with simple function**
 [![Web](https://img.shields.io/badge/GSB-Our%20landing%20page-brightgreen)](https://www.cillum.tk)
 
+**simple bot with simple function**
 ---
 ## CONTENTS OF THIS FILE
 
