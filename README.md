@@ -1,4 +1,9 @@
 # Get your Series Bot | GSB
+
+<h4 align="center">
+  <img alt="cillum project" src="cillum-project.png">
+</h4>
+
 [![VK_bot](https://img.shields.io/badge/GSB-Check%20out%20bot-brightgreen)](https://vk.com/gsb_bot)
 [![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-blue)](https://vk.com/gsb_bot)
 **simple bot with simple function**
