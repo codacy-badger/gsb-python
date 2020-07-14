@@ -36,11 +36,12 @@
 
 ## MAINTAINERS
 > [![Telegram](https://img.shields.io/badge/-MDPanf-green?logo=telegram&color=27A7E5)](https://t.me/mdpanf7)
+>
 > Vokdon
 
 Supporting organization:
 
-- Techno Perla - [https://vk.com/tperla](https://vk.com/tperla)
+> Techno Perla - [https://vk.com/tperla](https://vk.com/tperla)
 
 [1]: https://github.com/mdpanf/gsb-python#introduction "introduction"
 [2]: https://github.com/mdpanf/gsb-python#requirements "requirements"
