@@ -6,6 +6,7 @@
 
 [![VK_bot](https://img.shields.io/badge/GSB-Check%20out%20bot-brightgreen)](https://vk.com/gsb_bot)
 [![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-blue)](https://vk.com/gsb_bot)
+[![Donate](https://img.shields.io/badge/-Donate%20via%20ya.money-black?logo=yandex&color=red)](https://yasobe.ru/na/cillum_proj_1)
 
 **simple bot with simple function**
 
