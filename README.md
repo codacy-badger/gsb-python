@@ -32,12 +32,11 @@
 ## USAGE
 
 ## LICENSE
-[Our license](https://github.com/mdpanf/gsb-python/blob/master/LICENSE) almost the same as [MIT](https://choosealicense.com/licenses/mit/) license
+[Our license](/LICENSE) is almost the same as [MIT](https://choosealicense.com/licenses/mit/) license
 
 ## MAINTAINERS
-> [![Telegram](https://img.shields.io/badge/-MDPanf-green?logo=telegram&color=27A7E5)](https://t.me/mdpanf7)
->
-> Vokdon
+- MDPanf - [TGM](https://t.me/mdpanf7)
+- Vokdon
 
 Supporting organization:
 
