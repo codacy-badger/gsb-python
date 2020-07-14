@@ -5,8 +5,11 @@
 </h4>
 
 [![VK_bot](https://img.shields.io/badge/GSB-Check%20out%20bot-brightgreen)](https://vk.com/gsb_bot)
-[![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-blue)](https://vk.com/gsb_bot)
-[![Donate](https://img.shields.io/badge/Donate-Ya.Money-black?color=639a8f)](https://yasobe.ru/na/cillum_proj_1)
+![uptime](https://img.shields.io/badge/uptime-30%25-brightgreen)
+[![status](https://img.shields.io/badge/status-in%20developing-639a8f)](https://github.com/users/mdpanf/projects/2)
+![version](https://img.shields.io/badge/version-0.1.2-blue)
+[![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-blue)](https://mdpanf.github.io/gsb-python/)
+[![Donate](https://img.shields.io/badge/Donate-Ya.Money-black?color=orange)](https://yasobe.ru/na/cillum_proj_1)
 
 **simple bot with simple function**
 
