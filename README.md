@@ -5,11 +5,10 @@
 </h4>
 
 [![VK_bot](https://img.shields.io/badge/GSB-Check%20out%20bot-brightgreen)](https://vk.com/gsb_bot)
-![uptime](https://img.shields.io/badge/uptime-30%25-brightgreen)
+![uptime](https://img.shields.io/badge/uptime-30%25-yellow)
 [![status](https://img.shields.io/badge/status-in%20developing-639a8f)](https://github.com/users/mdpanf/projects/2)
 ![version](https://img.shields.io/badge/version-0.1.2-blue)
-[![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-blue)](https://mdpanf.github.io/gsb-python/)
-[![Donate](https://img.shields.io/badge/Donate-Ya.Money-black?color=orange)](https://yasobe.ru/na/cillum_proj_1)
+[![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-gray)](https://mdpanf.github.io/gsb-python/)
 
 **simple bot with simple function**
 
@@ -41,6 +40,8 @@
 ## MAINTAINERS
 - MDPanf - [TGM](https://t.me/mdpanf7)
 - Vokdon
+
+[![Donate](https://img.shields.io/badge/Donate-Ya.Money-black?color=orange)](https://yasobe.ru/na/cillum_proj_1)
 
 Supporting organization:
 
