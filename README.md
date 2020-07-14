@@ -4,12 +4,13 @@
 ---
 ## CONTENTS OF THIS FILE
 
-* Introduction
-* Requirements
-* Installation
-* Configuration
-* Usage
-* License
+* [Introduction][1]
+* [Requirements][2]
+* [Installation][3]
+* [Configuration][4]
+* [Usage][5]
+* [License][6]
+* [Maintainers][7]
 ---
 ~~Some info text here~~
 ## INTRODUCTION
@@ -22,10 +23,7 @@
 
 ## USAGE
 
-## Usage
-
-
-## License
+## LICENSE
 [Our license](https://github.com/mdpanf/gsb-python/blob/master/LICENSE) almost the same as [MIT](https://choosealicense.com/licenses/mit/) license
 
 ## MAINTAINERS
@@ -35,3 +33,11 @@
 Supporting organization:
 
 - Techno Perla - [https://vk.com/tperla](https://vk.com/tperla)
+
+[1]: https://github.com/mdpanf/gsb-python#introduction "introduction"
+[2]: https://github.com/mdpanf/gsb-python#requirements "requirements"
+[3]: https://github.com/mdpanf/gsb-python#installation "installation"
+[4]: https://github.com/mdpanf/gsb-python#configuration "configuration"
+[5]: https://github.com/mdpanf/gsb-python#usage "usage"
+[6]: https://github.com/mdpanf/gsb-python#license "license"
+[7]: https://github.com/mdpanf/gsb-python#maintainers "maintainers"
