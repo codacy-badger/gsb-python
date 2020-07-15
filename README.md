@@ -5,7 +5,7 @@
 </h4>
 
 ![uptime](https://img.shields.io/badge/uptime-30%25-yellow)
-![version](https://img.shields.io/badge/version-0.1.2-blue)
+![version](https://img.shields.io/badge/version-0.1.7-blue)
 [![status](https://img.shields.io/badge/status-in%20developing-639a8f)](https://github.com/users/mdpanf/projects/2)
 [![VK_bot](https://img.shields.io/badge/GSB-Check%20out%20bot-brightgreen)](https://vk.com/gsb_bot)
 [![Web page](https://img.shields.io/badge/WEB-Visit%20our%20site-lightblue)](https://mdpanf.github.io/gsb-python/)
