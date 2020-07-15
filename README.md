@@ -3,7 +3,7 @@
 <h4 align="center">
   <img alt="cillum project" src="docs/cillum-project.png">
 </h4>
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/600d2dfefa6c4731b80ff921229bb94d)](https://www.codacy.com/manual/mdpanf/gsb-python?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mdpanf/gsb-python&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/600d2dfefa6c4731b80ff921229bb94d)](https://www.codacy.com/manual/mdpanf/gsb-python?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mdpanf/gsb-python&amp;utm_campaign=Badge_Grade)]
 ![uptime](https://img.shields.io/badge/uptime-30%25-yellow)
 ![version](https://img.shields.io/badge/version-0.1.7-blue)
 [![status](https://img.shields.io/badge/status-in%20developing-639a8f)](https://github.com/users/mdpanf/projects/2)
