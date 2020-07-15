@@ -17,3 +17,7 @@ group_id = 'INPUT_GROUP_ID'
 # <!-------- SETTINGS --------!>
 
 # <!-------- BUTTONS --------!>
+
+if __name__ == '__main__': #executed only if the file itself is run
+	print('The module was launched, run the main program: bot.py')
+	print('Copyright (c) 2020 MDPanf')
