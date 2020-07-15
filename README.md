@@ -1,7 +1,7 @@
 # Get your Series Bot | GSB
 
 <h4 align="center">
-  <img alt="cillum project" src="cillum-project.png">
+  <img alt="docs/cillum project" src="cillum-project.png">
 </h4>
 
 ![uptime](https://img.shields.io/badge/uptime-30%25-yellow)
